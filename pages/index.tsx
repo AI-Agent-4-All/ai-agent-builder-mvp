@@ -1,10 +1,8 @@
-// File: pages/index.tsx
-
 export default function Home() {
   return (
-    <div style={{ padding: '2rem', textAlign: 'center' }}>
+    <div>
       <h1>🚀 Welcome to AI Agent Builder MVP</h1>
-      <p>Build and launch your personalized AI Agents easily!</p>
+      <p>Let's start building your personalized AI Agents!</p>
     </div>
   );
 }
